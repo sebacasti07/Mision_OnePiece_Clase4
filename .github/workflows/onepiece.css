@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    font-family : Arial;}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid  black;
+}
